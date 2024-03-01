@@ -1,0 +1,10 @@
+{
+    "compilerIptions": {
+        "target": "es6",
+        "modelu": "comonjs",
+        "outDir": "./dist",
+        "strict": true,
+        "esModuleInterop": true
+    },
+    "includes": ["src/**/*.ts"]
+}
